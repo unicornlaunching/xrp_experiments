@@ -1,6 +1,6 @@
 # XRP Trust Network Analysis Report
 
-[Demo](https://github.com/unicornlaunching/xrp_experiments/blob/main/xrp.mp4)
+[Demo](https://github.com/unicornlaunching/xrp_experiments/blob/main/xrp.mp4?raw=true)
 
 ## Executive Summary
 The XRP Trust Network Analysis provides a comprehensive overview of the interactions among significant whale accounts within the XRP Ledger (XRPL). This report highlights the establishment of trust lines, which are critical for understanding the flow of assets and the relationships between major players in the ecosystem.
